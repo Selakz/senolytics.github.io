@@ -1,2 +1,2 @@
-# senolytics.github.io
-基于github.io的轻量博客，用来快速发布内容
+# Senolytics Github Blog
+目前打算这里用来快速发布一些说明文档之类的东西，顺便也作为原始资料存储。具体内容等真的加进来再说吧，先这样。
